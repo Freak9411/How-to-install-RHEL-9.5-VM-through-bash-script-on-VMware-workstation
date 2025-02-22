@@ -1,0 +1,1 @@
+# How-to-install-RHEL-9.5-VM-through-bash-script-on-VMware-workstation
